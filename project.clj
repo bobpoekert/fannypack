@@ -6,6 +6,6 @@
   :dependencies [[org.clojure/clojure "1.10.1"]
                  [environ "1.2.0"]
                  [io.bit3/jsass "5.10.3"]
-                 [com.google.javascript/closure-compiler-main "v20200517"]]
+                 [com.google.javascript/closure-compiler "v20200517"]]
   :plugins [[lein-environ "1.2.0"]]
   :repl-options {:init-ns fannypack.core})
